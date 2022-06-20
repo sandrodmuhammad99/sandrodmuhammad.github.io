@@ -1,2 +1,0 @@
-# sandrodmuhammad.github.io
-todolist
